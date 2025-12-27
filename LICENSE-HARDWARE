@@ -1,0 +1,131 @@
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+
+Preamble
+
+CERN has developed this licence to promote collaboration among hardware designers and to ensure that improvements made by any party are made available for all to use.
+
+You may redistribute and modify this documentation and make products based on it under the terms of the CERN-OHL-S v2 ("LICENCE") as long as you credit the original authors (including a reference to the copyrights) and comply with all the conditions of this LICENCE.
+
+The LICENCE covers both the documentation and design files for hardware and the use of those files to make hardware based on these designs. You may use this licence for other hardware which you wish to treat in the same manner.
+
+1. Definitions
+
+In this Licence, the following terms have the following meanings:
+
+"Licence" means this CERN-OHL-S v2.
+
+"Documentation" means schematic diagrams, designs, circuit or circuit board layouts, blueprints, diagrams, lists of materials, PCB artwork, CAD files, gerber, netlists and any other record,表 means expressed in any form or media.
+
+"Documentation Location" means the location where the Licensor has placed the Documentation, and which he believes points to the most recent version of the Documentation.
+
+"Hardware" means devices built using the Documentation or products thereof.
+
+"Licensee" means any natural or legal person exercising rights under this Licence.
+
+"Licensor" means any natural or legal person that creates or modifies Documentation and subsequently makes it available under the terms of this Licence; the initial Licensor is the person named in the notice on the Documentation as holding the relevant copyright; if there is no such notice then the Licensor is the person named in the notice on the work to which the Documentation relates.
+
+"Make" means to design, develop, prototype or produce Hardware based on (or derived from) the Documentation.
+
+"Notified" means that a notice is sent to the Licensor at the Documentation Location, by electronic mail at the e-mail address (if provided) found in the header of the Documentation.
+
+"Reproduction" means the making of copies of the Documentation in any form or medium.
+
+"Source Documentation" means the Documentation preferred for making modifications to it.
+
+"You" or "Your" means any person or legal entity exercising rights under this Licence.
+
+2. Applicability
+
+2.1 This Licence governs the use, copying, modification and distribution of the Documentation, and the making of Hardware based on that Documentation. By exercising any right granted under this Licence, You irrevocably accept these terms and conditions.
+
+2.2 This Licence is granted by the Licensor directly to You, and shall apply worldwide and without limitation in time.
+
+2.3 You shall not attempt to restrict by patent or any other means the rights (including the rights to Reproduce, use, Modify and Distribute) granted to others under this Licence.
+
+3. Copying, Modification & Distribution of Documentation
+
+3.1 You may Reproduce the Documentation, in whole or in part, provided that each copy shall be accompanied by this Licence and any statutory notices regarding the existence of this Licence.
+
+3.2 You may create, Modify and Distribute Derived Documentation based upon the Documentation (as amended by any modifications which you make) provided that:
+
+a) the Derived Documentation shall be licensed under the terms of this Licence or, where applicable, a later version of this Licence as per clause 4.3;
+
+b) You shall, within the Derived Documentation, cause all, some or none of the notices held within the locations of the Documentation to be retained or removed, but in any case You shall add a notice to the Derived Documentation stating that You have modified it, with the date and brief description of the modifications made;
+
+c) You shall not modify the terms of this Licence relation to the Derived Documentation, but You may add additional notices elsewhere within the Derived Documentation;
+
+d) You may not remove or alter any Licensor notices, including copyright, patent or trademark notices, mark as such, or add notices that could be confused with such notices.
+
+4. Making Hardware
+
+4.1 You may Make Hardware based on the Documentation (including making a design derived from the Documentation and Making Hardware based on that derived design).
+
+4.2 When Making Hardware based on the Documentation, You shall, where practicable to do so, Notifythe Licensor of such fact.
+
+5. Distribution of Hardware
+
+5.1 The following applies if You Distribute Hardware whose design You have not Modified.
+
+5.1.1 You may Distribute such Hardware, whether made by You or by a third party on Your behalf, provided that You ensure that the recipient of the Hardware is notified of the source and terms under which the design of the Hardware is licensed. This notification must include a reference to this Licence and any amendments to this Licence made in accordance with clause 4.3 (which in the case of a later version of the Licence might stipulate different conditions for Hardware distribution).
+
+5.1.2 If the Hardware design is modified by the person making the Hardware, then that person is responsible for ensuring that any recipient of Hardware made with that modified design is notified of the modifications, the source of the design and the terms under which the modified design of the Hardware is licensed (including, where applicable, a notification that the modified design is to be treated as Derived Documentation).
+
+5.2 The following applies if You Distribute Hardware whose design You have Modified.
+
+5.2.1 You shall Ensure that the recipient of such Hardware is notified of the modifications, the source and the terms under which the modified design of the Hardware is licensed. This notification must include a reference to this Licence and any amendments to this Licence made in accordance with clause 4.3.
+
+5.2.2 If You Distribute Hardware based on Modified Documentation, You shall Ensure that the modified Documentation (or documentation describing the modifications and how to obtain a copy of it) accompanies the Hardware, and You shall Ensure that the recipient of the Hardware is notified of their right to modify and Distribute the modified Documentation under the terms of this Licence.
+
+5.2.3 You may charge a fee for manufacturing and Distribution of the Hardware, and You may charge a different fee for hardware support or warranty as permitted by the law of Your jurisdiction; however, You may not charge a fee for the Documentation itself or, where it is Distributed with Hardware, for the Documentation included with that Hardware, and the amount of fee for Hardware must not create a financial barrier to the ability to copy, modify or distribute the Documentation and make Hardware based on it.
+
+5.3 You shall ensure that the Documentation supplied with Hardware is the Documentation relating to the version of the Hardware supplied, except that You may supply Documentation relating to a later or earlier version of that Hardware if You make it clear to the recipient of the Hardware what modifications between Documentation versions have been made to Hardware and documentation supplied with it.
+
+6. Intellectual Property Rights
+
+6.1 Except as expressly provided in this Licence, the provision of the Documentation does not give You any licence to any patents, registered designs or other intellectual property.
+
+6.2 The Licensor reserves the right to license Documentation which he may develop, which documents alternative designs implementing the concepts of the Documentation, under the terms of this Licence or any licence which is compatible with it.
+
+6.3 You shall not use any trade marks, service marks, trade names, or other distinctive signs (whether registered or not and whether common law or statutory) which are held by the Licensor in any way which suggests the association or endorsement by the Licensor, except as permitted by the law of Your jurisdiction in relation to the use of the trade marks or service marks of others.
+
+7. Warranty & Liability
+
+7.1 DISCLAIMER: The Documentation is licensed to You on an "AS-IS" basis, without warranty of any kind, to the extent permitted by law. Notwithstanding the foregoing, the Licensor does not exclude liability for death or personal injury resulting from Licensor's negligence.
+
+7.2 LIABILITY EXCLUSION: Subject to any liability which may not be excluded or limited by applicable law the Licensor shall not be liable for:
+
+a) loss of use, business, revenue, goodwill, reputation, profits, data or other tangible or intangible losses even if advised of the possibility of such loss;
+
+b) loss caused by Your actions, including reliance on the Documentation, making Hardware based on it, or distributing Hardware based on it.
+
+7.3 This exclusion of liability shall not apply to You in the event that the Documentation is supplied by Licensor in breach of the terms of this Licence.
+
+8. General
+
+8.1 Differences in numbering, formatting, graphics, colour or typeface between versions of the Documentation shall not constitute grounds for claiming that modified versions do not comply with this Licence, unless such differences are material to the sense or effect of the Documentation.
+
+8.2 Failure by any party to enforce any provision of this Licence shall not constitute a waiver of the provision or the right to enforce it.
+
+8.3 If any provision of this Licence is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+8.4 This Licence shall be governed by the law of the jurisdiction in which the Licensor resides, with the exception that:
+
+a) the courts of any country party to the Convention for the Recognition and Enforcement of Foreign Arbitral Awards (New York, 1958) shall have the exclusive jurisdiction to settle any dispute which may arise;
+
+b) any litigation arising out of or in relation to this Licence shall be subject to mediation prior to litigation, with the exception of litigation related to intellectual property rights and actions seeking injunctive relief;
+
+c) if any such mediation fails to resolve a dispute, such dispute shall be resolved by arbitration in accordance with the Rules of Arbitration of the International Chamber of Commerce (ICC), the seat of arbitration being Geneva, Switzerland, and the language of the proceedings being English. The arbitration award shall be final and binding and may be enforced by any court of competent jurisdiction.
+
+d) nothing in this clause shall prevent the Licensor from bringing an action for a prohibited infringement in any court of competent jurisdiction, nor shall the Licensor be prevented from seeking injunctive relief.
+
+8.5 Any notice required to be sent to You under the terms of this Licence may be sent to You either by electronic mail (if an electronic address has been provided by You to the Licensor and has not subsequently become invalid), by registered mail, personal delivery or by any other method permitted by the law of Your jurisdiction, provided that such notice is sent to You at the latest address, telephone number or electronic address held on file by the Licensor.
+
+8.6 You hereby irrevocably consent to the use of electronic means for all notices permitted or required under the terms of this Licence.
+
+9. Interpretation
+
+9.1 Only the English language version of this Licence is legally binding. Any translations of this Licence are provided for information purposes only and You shall refer to the English language version in the case of any ambiguity or contradiction.
+
+9.2 If a provision of this Licence is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect and the invalid or unenforceable provision shall be modified to the minimum extent necessary to make it valid and enforceable while preserving its original intent and effect.
+
+END OF CERN OPEN HARDWARE LICENCE V2 - STRONGLY RECIPROCAL
