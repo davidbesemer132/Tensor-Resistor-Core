@@ -1,0 +1,59 @@
+{
+  "MANIFEST_VERSION": "1.0.0",
+  "MANIFEST_CREATED": "2025-12-30T14:34:02Z",
+  "SYSTEM_NAME": "Tensor-Resistor-Core",
+  "PHYSICS_CONSTRAINT": {
+    "METADATA": {
+      "constraint_level": "FUNDAMENTAL",
+      "enforcement_mode": "STRICT",
+      "domains": ["QUANTUM_MECHANICS", "INFORMATION_THEORY", "THERMODYNAMICS", "TRC_SOVEREIGNTY"]
+    },
+    "CONSTANTS": {
+      "FUNDAMENTAL": {
+        "planck_constant_h": { "value": 6.62607015e-34, "unit": "J·s" },
+        "speed_of_light_c": { "value": 299792458, "unit": "m/s" },
+        "boltzmann_constant_k": { "value": 1.380649e-23, "unit": "J·K⁻¹" }
+      },
+      "RESISTOR": {
+        "quantum_resistance": { "value": 12906.40372, "unit": "Ω", "desc": "Von Klitzing Constant" }
+      }
+    },
+    "LOGIC_LAWS": {
+      "TRC_SOVEREIGN_LOGIC": {
+        "description": "The non-negotiable laws of the TRC architecture",
+        "SOVEREIGN_THRESHOLD": {
+          "value": 0.51,
+          "unit": "ratio",
+          "desc": "Minimum order required for Truth (1)"
+        },
+        "CHAOS_THRESHOLD": {
+          "value": 0.49,
+          "unit": "ratio",
+          "desc": "Maximum order allowed for Decay (0)"
+        },
+        "HYSTERESIS_GAP": {
+          "value": 0.02,
+          "unit": "ratio",
+          "desc": "The Death Zone (50:50 is forbidden)"
+        },
+        "ANALOG_ANCHOR_MIN": {
+          "value": 0.20,
+          "unit": "ratio",
+          "desc": "Minimum analog stress required to sustain logic"
+        }
+      },
+      "CONSERVATION_LAWS": {
+        "energy_conservation": { "enforcement": "MANDATORY" },
+        "information_conservation": { "enforcement": "MANDATORY" }
+      },
+      "THERMODYNAMIC_CONSTRAINTS": {
+        "landauer_principle": { "enforcement": "MANDATORY" },
+        "entropy_increase": { "enforcement": "MANDATORY" }
+      }
+    },
+    "TIMING": {
+      "PHASE_CYCLE": "1-3-2",
+      "planck_time": { "value": 5.391247e-44, "unit": "s" }
+    }
+  }
+}
